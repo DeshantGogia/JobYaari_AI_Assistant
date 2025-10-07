@@ -7,6 +7,8 @@ This repository contains a single Streamlit app `jobyaari_bot.py` which:
 - Builds a small searchable knowledge base from the scraped jobs.
 - Uses an offline Llama3 model (Ollama) to answer user queries and optionally attach scraped job results.
 
+<img width="1911" height="885" alt="Screenshot 2025-10-07 161023" src="https://github.com/user-attachments/assets/82d7ccfa-4bd7-4089-9851-44c355eb9ed8" />
+
 ## Quick status
 - App file: `jobyaari_bot.py`
 - UI: Streamlit
