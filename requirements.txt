@@ -1,0 +1,8 @@
+# Core runtime dependencies for JobYaari AI Assistant
+streamlit>=1.20
+requests>=2.28
+beautifulsoup4>=4.11
+pandas>=1.5
+langchain-community
+ollama
+lxml

@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.venv/
+
+# Dependency directories
+/.mypy_cache/
+/.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Streamlit cache
+.streamlit/
+
+# Ollama / model artifacts (if any)
+.ollama/
